@@ -1,0 +1,52 @@
+[
+  {
+    "name": "T-shirt",
+    "price": 590,
+    "category": "Clothings"
+  },
+  {
+    "name": "Hoodie",
+    "price": 700,
+    "category": "Clothings"
+  },
+  {
+    "name": "Pant",
+    "price": 1290,
+    "category": "Clothings"
+  },
+  {
+    "name": "Hat",
+    "price": 250,
+    "category": "Accessories"
+  },
+  {
+    "name": "Bag",
+    "price": 640,
+    "category": "Accessories"
+  },
+  {
+    "name": "Watch",
+    "price": 850,
+    "category": "Accessories"
+  },
+  {
+    "name": "Belt",
+    "price": 230,
+    "category": "Accessories"
+  },
+  {
+    "name": "Rice cooker",
+    "price": 849,
+    "category": "Electronics"
+  },
+  {
+    "name": "Washing machine",
+    "price": 6090,
+    "category": "Electronics"
+  },
+  {
+    "name": "Electric fan",
+    "price": 779,
+    "category": "Electronics"
+  }
+]
